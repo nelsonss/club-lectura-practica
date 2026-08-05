@@ -1,0 +1,3 @@
+Nombre: Ana Gómez
+ID: SOC-001
+Libros prestados: 0

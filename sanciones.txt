@@ -1,0 +1,2 @@
+P1: Por cada d¡a de mora en la entrega de un libro el estudiante debe cancelar $ 1000 (COP)
+P2: El momento de solicitar un paz y salvo de biblioteca DEBE haber cancelado cualquier mora

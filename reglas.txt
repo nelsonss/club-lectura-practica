@@ -1,2 +1,4 @@
 "# Club de Lectura - Reglamento Inicial" 
-Regla 1: Cada socio puede solicitar máximo 2 libros. Estudiantes tienen 15% de descuento.
+Regla 1: Cada socio puede solicitar máximo 2 libros.
+Regla 1.1: Estudiantes tienen 15% de descuento en la membresía.
+Regla 1.2: Afiliados Senior tienen 20% de descuento en la membresía.
